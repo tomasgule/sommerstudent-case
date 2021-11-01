@@ -1,0 +1,13 @@
+.stat-container {
+  display: flex;
+}
+
+.stat {
+  flex: 1;
+  margin-left: 5px;
+}
+
+.stat-name {
+  flex: 1;
+  text-align: end;
+}
