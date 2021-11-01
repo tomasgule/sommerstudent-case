@@ -9,7 +9,6 @@ type PokemonCardProps = {
 };
 
 const PokemonCard = ({ pokemon }: PokemonCardProps) => {
-  console.log(pokemon);
   return (
     <div className="pokemon-card">
       <div className="image-and-info">
